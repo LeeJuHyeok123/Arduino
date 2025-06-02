@@ -230,3 +230,6 @@ void loop() {
 }
 
 ```
+만들면서 배우는 아두이노와 40개의 작품들. 장문철, 앤써북
+![image](https://github.com/user-attachments/assets/74112f76-3518-4964-9ff1-90cd4fe7ac54)
+
