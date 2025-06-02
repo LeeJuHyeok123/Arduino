@@ -173,4 +173,26 @@ void loop() {
 
 
 
+
+
+```
+
+
+![](./images/led04.png)
+가변저항을 이용한 스탠드 구현
+```c
+#define LED 9
+#define VR A0
+
+void setup(){
+  Serial.begin(9600);
+}
+
+void loop(){
+  int analogValue = analogRead(VR);
+  int analogMapping = map(analogValue, 0, 1023, 0, 255);
+  
+  analogWrite(LED, analogMapping);
+}
+
 ```
