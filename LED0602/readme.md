@@ -1,6 +1,6 @@
 # LED 예 제 1
 ##LED 깜박이기
-![led](./imeges/led00.png)
+![](./images/led00.png)
 
 ## source code
 
