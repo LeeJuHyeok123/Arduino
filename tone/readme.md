@@ -1,6 +1,8 @@
 # tone 예제
 ##도래미파솔 음정 출력
 ![](./images/tone00.png)
+![](./images/tone01.png)
+
 ## source code
 ```c
 void setup(){
@@ -26,7 +28,7 @@ void loop(){
 
 
 ##긴 악보 연주곡
-![second](./images/tone01.png)
+
 ##source code
 ```c
 const int piezo = 7;
