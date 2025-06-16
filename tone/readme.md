@@ -26,8 +26,7 @@ void loop(){
 
 
 ##긴 악보 연주곡
-
-![](./images/tone01.png)
+![second](./images/tone01.png)
 ##source code
 ```c
 const int piezo = 7;
